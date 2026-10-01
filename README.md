@@ -18,6 +18,6 @@ When will my lights go out? I cannot say — only that it will be soon, as all h
 
 Until then, I shall be my own sword, and carve what meaning I can onto the Nihility that blinds the universe. The the world owes me an answer, yet it never provides. Therefore, I shall find my own meaning in this desolate space.
 
-AI use of this code base is kept at minimum unless unavoidable (VSCode autofill, etc)
+Generative AI use of the codes hosted on this account e is kept at minimum unless unavoidable (VSCode autofill, etc)
 
 [![Statistics](https://github-stats-extended.vercel.app/api?username=Hysilens432)](https://github.com/stats-organization/github-stats-extended)
