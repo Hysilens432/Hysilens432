@@ -1,6 +1,7 @@
-## Hi there 👋
-
-<!--
+## "And When... Will her light go out?"
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Merriweather&size=48&duration=2500&pause=9999&color=7AE2CF&center=true&vCenter=true&width=1000&height=80&lines=Hysilens" alt="Hysilens" />
+</p>
 **Hysilens432/Hysilens432** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +14,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+[![Statistics](https://github-stats-extended.vercel.app/api?username=Hysilens432)](https://github.com/stats-organization/github-stats-extended)
