@@ -8,16 +8,7 @@
 
 ## About
 
-I am a theoretical physicist at UNSW, specialising in cosmology. Every light in the sky is a letter from the past; the farther you look, the older the message.
-
-You need only know me as **Hysilens**, after the melancholic songstress of Amphoreus. She sang to the sea, and I sing to the sea of stars, akin to a fish amongst the endless void.
-
-My Pronouns are She/Her 🏳️‍⚧️, I am of native fluency in both Japanese and English. I can work with Chinese as well.
-
-When will my lights go out? I cannot say — only that it will be soon, as all human things are soon. Yet I study a cosmos in which every light goes out in the end: some years from now, the last stars will fade, and all things shall find its peace in slumber.
-
-Until then, I shall be my own sword, and carve what meaning I can onto the Nihility that blinds the universe. The the world owes me an answer, yet it never provides. Therefore, I shall find my own meaning in this desolate space.
-
+I am a theoretical physicist at UNSW, specialising in cosmology. Every light in the sky is a letter from the past;
 Generative AI use of the codes hosted on this account is kept at minimum unless unavoidable (VSCode autofill, etc)
 
 [![Statistics](https://github-stats-extended.vercel.app/api?username=Hysilens432)](https://github.com/stats-organization/github-stats-extended)
