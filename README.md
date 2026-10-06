@@ -1,4 +1,4 @@
-# "And When... Will her light go out?"
+# "I shall be my own sword"
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Merriweather&size=48&duration=2500&pause=9999&color=7AE2CF&center=true&vCenter=true&width=1000&height=80&lines=Hysilens" alt="Hysilens" />
 </p>
