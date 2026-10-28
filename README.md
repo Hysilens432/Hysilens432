@@ -7,7 +7,7 @@
 Why are we still in this world, <br />
 Within these incomplete bodies, <br />
 With a beating heart  <br />
-I tried to make a fower bloom, <br \>
+I tried to make a fower bloom, <br />
 But, we are just watering a soil without seeds, isn't it? <br />
 Was being born a mistake? <br />
 I want to die, I want to disappear, there is nothing more, <br />
