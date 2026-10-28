@@ -1,7 +1,7 @@
 
 ## 𝚂𝚒𝚗𝚔𝚒𝚗𝚐 𝚠𝚒𝚝𝚑 𝚢𝚘𝚞
 
-![Alt text](https://static.wikitide.net/projectsekaiwiki/thumb/b/b3/25-ji%2C_Nightcord_de._logo_%28bordered%29.png/320px-25-ji%2C_Nightcord_de._logo_%28bordered%29.png)
+![Alt text](https://static.wikitide.net/projectsekaiwiki/thumb/b/b3/25-ji%2C_Nightcord_de._logo_%28bordered%29.png/320px-25-ji%2C_Nightcord_de._logo_%28bordered%29.png) <br\>
 Why are we still in this world, <br />
 Within these incomplete bodies, <br />
 With a beating heart  <br />
