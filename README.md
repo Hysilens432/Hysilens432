@@ -15,7 +15,7 @@ I told myself countless times. <br />
 I'm tormented by nighmares, <br />
 By a world that bloomed in my sealed off past. <br />
 The future is written with regret. <br />
-But life itself is the world's plague. <br \>
+But life itself is the world's plague. <br />
 
 私の心は、どこにいっちゃったんだろう。……ねえ、誰か知ってる？ 私の、本当の心のあり処を…… <br />
 明日が来なければいいのに。そしたら、誰も私に何も期待しない <br />
