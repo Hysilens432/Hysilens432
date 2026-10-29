@@ -4,6 +4,8 @@
 
 ## 𝚂𝚒𝚗𝚔𝚒𝚗𝚐 𝚠𝚒𝚝𝚑 𝚢𝚘𝚞
 
+まだ人生終わってないから、諦めんなって誰かの声 <br />
+
 Why are we still in this world, <br />
 Within these incomplete bodies, <br />
 With a beating heart?  <br />
