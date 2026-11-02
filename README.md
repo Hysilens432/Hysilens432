@@ -1,8 +1,10 @@
 
 # About 
 Artist, Musician and Studying Cosmology <br />
-Fav: 25時、ナイトコードで。| MyGo!!! <br />
+イラストレーター, 音楽家、宇宙科学者 <br/>
 Character Ship: Shinonome Ena x Asahina Mafuyu <br />
+推し：東雲絵名　x 朝比奈まふゆ <br />
+Fav: 25時、ナイトコードで。 & MyGo!!! <br />
 
 ![Logo:  25時、ナイトコードで。](https://static.wikitide.net/projectsekaiwiki/thumb/b/b3/25-ji%2C_Nightcord_de._logo_%28bordered%29.png/320px-25-ji%2C_Nightcord_de._logo_%28bordered%29.png)
 
