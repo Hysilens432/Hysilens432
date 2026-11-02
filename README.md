@@ -2,7 +2,7 @@
 # About 
 Artist, Musician and Studying Cosmology <br \>
 Fav: 25時、ナイトコードで。| MyGo!!! <br \>
-Character Ship: Shinonome Ena x Asahina Mafuyu <br \>
+Character Ship: Shinonome Ena x Asahina Mafuyu
 
 ![Logo:  25時、ナイトコードで。](https://static.wikitide.net/projectsekaiwiki/thumb/b/b3/25-ji%2C_Nightcord_de._logo_%28bordered%29.png/320px-25-ji%2C_Nightcord_de._logo_%28bordered%29.png)
 
