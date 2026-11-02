@@ -12,7 +12,7 @@ Fav: 25時、ナイトコードで。 & MyGo!!! <br />
 
 
 # Mental Dump
-
+A collection of things or thoughts.
 ## One
 Why are we still in this world, <br />
 Within these incomplete bodies, <br />
