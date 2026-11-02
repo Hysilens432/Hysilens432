@@ -1,5 +1,6 @@
 
 # About 
+EN/JP <br />
 Artist, Musician and Studying Cosmology <br />
 イラストレーター, 音楽家、宇宙科学者 <br/>
 Character Ship: Shinonome Ena x Asahina Mafuyu <br />
