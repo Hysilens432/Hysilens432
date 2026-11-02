@@ -1,8 +1,8 @@
 
 # About 
-Artist, Musician and Studying Cosmology <br \>
-Fav: 25時、ナイトコードで。| MyGo!!! <br \>
-Character Ship: Shinonome Ena x Asahina Mafuyu
+Artist, Musician and Studying Cosmology <br />
+Fav: 25時、ナイトコードで。| MyGo!!! <br />
+Character Ship: Shinonome Ena x Asahina Mafuyu <br />
 
 ![Logo:  25時、ナイトコードで。](https://static.wikitide.net/projectsekaiwiki/thumb/b/b3/25-ji%2C_Nightcord_de._logo_%28bordered%29.png/320px-25-ji%2C_Nightcord_de._logo_%28bordered%29.png)
 
@@ -22,7 +22,7 @@ How could I expect anything from a "life" like this? <br />
 I tried to make a fower bloom, <br />
 by watering a soil without seeds <br />
 Why, <br />
-Was being born a mistake? <br \>
+Was being born a mistake? <br />
 
 
 ## Two
